@@ -1,3 +1,7 @@
 this is just a test
+<<<<<<< HEAD
 maybe not evryone
 we will soon find out
+=======
+we are all active 
+>>>>>>> fixit
